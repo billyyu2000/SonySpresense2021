@@ -1,6 +1,8 @@
 # Mobile Robot Controlled by Hand Gestures Using ToF Sensor
 
-A research project demonstrating intuitive hand gesture control for mobile robots using Time-of-Flight (ToF) sensors and computer vision.
+A research project demonstrating intuitive hand gesture control for mobile robots using Time-of-Flight (ToF) sensors and computer vision. 
+
+Code of this project is in the file spresense and the Powerpoint for presentation is uploaded as pdf with pictures of the whole system.
 
 **Developed by:** Zekang Yu   
 **Institution:** Tadokoro Lab, Sony SS Report 2022-02-28  
