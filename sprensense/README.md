@@ -1,4 +1,3 @@
-[Japanese/[English](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe/blob/main/README_EN.md)]
 
 ---
 # hand-gesture-recognition-using-mediapipe
@@ -141,12 +140,6 @@ FPS計測用のモジュールです。
 * [Control DJI Tello drone with Hand gestures](https://towardsdatascience.com/control-dji-tello-drone-with-hand-gestures-b76bd1d4644f)
 * [Classifying American Sign Language Alphabets on the OAK-D](https://www.cortic.ca/post/classifying-american-sign-language-alphabets-on-the-oak-d)
 
-# Reference
-* [MediaPipe](https://mediapipe.dev/)
-* [Kazuhito00/mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)
 
-# Author
-高橋かずひと(https://twitter.com/KzhtTkhs)
- 
-# License 
-hand-gesture-recognition-using-mediapipe is under [Apache v2 license](LICENSE).
+
+
