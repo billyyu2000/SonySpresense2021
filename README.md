@@ -154,14 +154,4 @@ Potential extensions of this system include:
 - Integration with additional sensors for enhanced perception
 - Machine learning-based gesture customization
 
----
 
-## Acknowledgments
-
-Special thanks to the instructors and Tadokoro Lab for guidance and support throughout this research project.
-
----
-
-## License
-
-This project was developed as part of academic research at Tadokoro Lab. Please contact the authors for licensing information.
