@@ -2,7 +2,7 @@
 
 A research project demonstrating intuitive hand gesture control for mobile robots using Time-of-Flight (ToF) sensors and computer vision.
 
-**Developed by:Zekang Yu   
+**Developed by:** Zekang Yu   
 **Institution:** Tadokoro Lab, Sony SS Report 2022-02-28  
 
 
